@@ -16,20 +16,20 @@ h1, h2, button {
 
 button {
     display: flex;
-    align-items: center; /* Alinha o conteúdo verticalmente */
-    justify-content: center; /* Centraliza o conteúdo horizontalmente */
-    padding: 10px 20px; /* Adiciona um espaçamento interno */
-    background-color: rgb(189, 168, 49); /* Define um fundo para o botão */
-    border: none; /* Remove a borda padrão */
-    cursor: pointer; /* Mostra o cursor de mão ao passar sobre o botão */
+    align-items: center;
+    justify-content: center; 
+    padding: 10px 20px; 
+    background-color: rgb(189, 168, 49); 
+    border: none; 
+    cursor: pointer; 
 }
 
 .meu-gif {
-    position: absolute;  /* Posiciona o GIF fora do fluxo normal do documento */
-    bottom: 0;           /* 0px a partir da parte inferior da página */
-    left: 50px;          /* 50px a partir da esquerda */
-    width: 100px;        /* Define a largura */
-    height: auto;        /* Mantém a proporção */
+    position: absolute;  
+    bottom: 0;           
+    left: 50px;         
+    width: 100px;        
+    height: auto;       
 }
 main{
     display: inline-block;
