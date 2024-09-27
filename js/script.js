@@ -1,3 +1,4 @@
+// Função para redirecionar o usuário para a tela de favoritos
 function goToSecondaryScreen() {
     window.location.href = 'secondary-screen.html';
 }

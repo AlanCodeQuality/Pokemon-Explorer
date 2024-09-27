@@ -39,5 +39,47 @@ body{
     margin: 10px;
 }
 
+.favorite-item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 50%;
+    max-width: 400px;
+    justify-content: center;
+    background-color: #6ab7f5; 
+    margin: 0 auto; 
+}
+
+.favorites-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.pokemon-img {
+    width: 96px;
+    height: auto;
+    margin: 10px;
+}
+
+.remove-btn {
+    background-color: #ff4c4c;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.remove-btn:hover {
+    background-color: #ff1c1c;
+}
+
 
 
