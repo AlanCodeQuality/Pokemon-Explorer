@@ -1,35 +1,26 @@
-🌟 PokeDex Web App 🌟
+# 🌟 PokeDex Web App 🌟
 
-Bem-vindo ao PokeDex Web App! Este projeto é uma aplicação web desenvolvida com HTML, CSS e JavaScript, utilizando a PokeAPI. Nele, você pode explorar Pokémons, buscar por nome e até gerenciar sua lista de Pokémons favoritos!
+Welcome to **PokeDex Web App**! This project is a web application built with **HTML**, **CSS**, and **JavaScript**, utilizing the **PokeAPI**. You can explore Pokémon, search by name or ID, and manage your list of favorite Pokémon!
 
-🚀 Funcionalidades
-📜 Listagem de Pokémons:
-Exibe todos os Pokémons da API com nome e imagem, permitindo explorar a lista completa.
+## 🚀 Features
 
-🔍 Busca por Nome:
-Filtre rapidamente os Pokémons pelo nome ou ID digitado e veja os resultados atualizados em tempo real.
+- **📜 Pokémon Listing:**  
+  Displays all Pokémon from the API with their name and image, allowing you to browse the entire list.
 
-⭐ Gerenciamento de Favoritos:
-Adicione ou remova Pokémons da sua lista de favoritos com um simples clique.
+- **🔍 Name/ID Search:**  
+  Quickly filter Pokémon by typing their name or ID and see the results update in real-time.
 
-🎨 Design Moderno:
-Layout responsivo e estiloso, utilizando framework Bootstrap para uma interface amigável.
+- **⭐ Favorite Management:**  
+  Add or remove Pokémon from your favorites list with a single click.
 
-⚙️ Como Executar
-Clone o repositório:
+- **🎨 Modern Design:**  
+  Responsive and stylish layout, using the **Bootstrap** framework for a user-friendly interface.
+
+## ⚙️ How to Run
+
+Clone the repository:
+```bash
 git clone https://github.com/AlanCodeQuality/Pokemon-Explorer.git
-
-Abra o arquivo index.html em seu navegador para explorar a aplicação.
-
-📦 Tecnologias Utilizadas
-HTML5
-CSS3 (Bootstrap)
-JavaScript
-PokeAPI
-
-🎯 Regras
-Filtro de Busca: Digite no campo de busca para filtrar Pokémons pelo nome.
-Favoritos: Clique no ícone de estrela para adicionar ou remover um Pokémon dos favoritos.
 
 
 ![image](https://github.com/user-attachments/assets/d7bf80f6-c16f-4ce5-8629-aefd03dd0b95)
