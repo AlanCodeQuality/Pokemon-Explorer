@@ -1,5 +1,6 @@
 🌟 PokeDex Web App 🌟
-Bem-vindo ao PokeDex Web App! Este projeto é uma aplicação web desenvolvida com HTML, CSS e JavaScript, utilizando a PokeAPI. Nele, você pode explorar Pokémons, buscar por nome e até gerenciar sua lista de Pokémons favoritos!
+Bem-vindo ao PokeDex Web App! Este projeto é uma aplicação web desenvolvida com HTML, CSS e JavaScript, utilizando a PokeAPI. 
+Nele, você pode explorar Pokémons, buscar por nome e até gerenciar sua lista de Pokémons favoritos!
 
 🚀 Funcionalidades
 📜 Listagem de Pokémons:
@@ -32,6 +33,7 @@ HTML5
 CSS3 (Bootstrap ou Materialize)
 JavaScript
 PokeAPI
+
 🎯 Regras
 Filtro de Busca: Digite no campo de busca para filtrar Pokémons pelo nome.
 Favoritos: Clique no ícone de estrela para adicionar ou remover um Pokémon dos favoritos.
