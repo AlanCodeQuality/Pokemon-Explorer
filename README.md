@@ -18,7 +18,7 @@ Welcome to **PokeDex Web App**! This project is a web application built with **H
 
 ## ⚙️ How to Run
 
-1. Clone the repository:
+1. Clone the repository:.
 
 git clone https://github.com/AlanCodeQuality/Pokemon-Explorer.git
 
