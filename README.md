@@ -1,4 +1,4 @@
-# 🌟 Pokemon ExplorerWeb App 🌟
+# 🌟 Pokemon Explorer Web App 🌟
 
 Welcome to Pokemon Explorer! This project is a web application built with **HTML**, **CSS**, and **JavaScript**, utilizing the **PokeAPI**. You can explore Pokémon, search by name or ID, and manage your list of favorite Pokémon!
 
